@@ -1,1 +1,1 @@
-# Url Alma Url Aktarma İşlemleriniz Yapılır
+# Url Alma Url Aktarma Url Koruma İşlemleriniz Yapılır
